@@ -2,6 +2,8 @@
 
 Optimization Algorithm with Gradient Descent
 
+Here, if the lost function gives too many values, it means that our model is not good. For this purpose, weight and bias values are updated. This repo contains the codes on how they are updated. Gradient algorithm was used.
+
 ![Ekran Resmi 2024-05-28 14 24 08](https://github.com/MuhammetEminOzdemir/LogisticRegression-Weight-and-Bias-Update/assets/80462839/b202c5e3-b293-4528-824d-e77214def545)
 
 Now lets look at computation graph of logistic regression
