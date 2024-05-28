@@ -1,5 +1,7 @@
 # Logistic Regression Weight and Bias Update
 
+Kaggle Dataset: https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset
+
 Optimization Algorithm with Gradient Descent
 
 Here, if the lost function gives too many values, it means that our model is not good. For this purpose, weight and bias values are updated. This repo contains the codes on how they are updated. Gradient algorithm was used.
