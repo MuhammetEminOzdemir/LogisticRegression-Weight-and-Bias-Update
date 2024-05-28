@@ -32,3 +32,6 @@ Lets make example:
 
 Lets say we find z = 4 and put z into sigmoid function. The result(y_head) is almost 0.9. It means that our classification result is 1 with 90% probability.
 Now lets start with from beginning and examine each component of computation graph more detailed.
+
+
+![Ekran Resmi 2024-05-28 14 39 49](https://github.com/MuhammetEminOzdemir/LogisticRegression-Weight-and-Bias-Update/assets/80462839/7abeb6cd-04dc-437e-bba7-6c7ab3bf263a)
